@@ -2135,6 +2135,12 @@ body {
   }
 }
 
+.rk-warning-btn svg {
+  fill: #FF0000; 
+  width: 24px;
+  height: 24px;
+}
+
 .rk-footer-menu {
   display: inline-block;
   margin-bottom: 1rem;
